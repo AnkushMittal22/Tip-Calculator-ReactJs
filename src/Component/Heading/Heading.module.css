@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+.heading{
+    border: 1px solid red;
+    width: 60%;
+    margin: 1rem auto;
+    background-color: #0080ff;
+}
+.heading_h1{
+    font-size: 40px;
+    color: white;
+}
+
+.heading p{
+    font-size: 20px;
+    color: white;
+}
+

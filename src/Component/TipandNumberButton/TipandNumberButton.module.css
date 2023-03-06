@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.tipandPerson{
+     
+    margin: auto;
+    width: 60%;
+    /* padding-bottom: 6rem; */
+    
+    /* width: 60%;
+    margin: -4.7px auto; */
+     
+}
+.tipandPerson_button{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.tipandPerson button{
+    font-weight: bold;
+    font-size: large;
+    padding: 10px;
+    background-color: rgba(0, 128, 0, 0.719);
+    color: white; 
+    border: 0;  
+}
+
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table{
+    width: 100%;
+}
+
+th{
+    text-align: center;
+}
+
+td{
+    text-align: center;
+   
+}
+
+.tipandPerson_p{
+    /* border:  solid black; */
+    background-color: rgba(0, 0, 0, 0.551);
+    color:  white;
+    font-weight: bold;
+    font-size: large;
+    border-top: none;
+}

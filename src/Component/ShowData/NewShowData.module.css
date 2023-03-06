@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.NewShowData{
+    border: 1px solid red;
+     margin: 0.5em 0 0 19.2rem;
+     width: 60%;
+     padding-bottom: 6rem;
+         
+        
+}
+
+.NewShowData_customer{
+ display: flex;
+ justify-content: center;
+ font-size: small;
+ 
+}
+
+.NewShowData_hr{
+    width: 100%;
+}

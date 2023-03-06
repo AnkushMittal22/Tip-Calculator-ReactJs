@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.NewUser{
+     
+    border: 1px solid red;
+    margin: 0.5em auto;
+    width: 60%;
+    padding-bottom: 6rem;
+        
+    }

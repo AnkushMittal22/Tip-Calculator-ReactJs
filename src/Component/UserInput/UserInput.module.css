@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.userInput_amount label{
+ display: flex;
+ justify-content: center;
+font-weight: bold;
+font-size: 20px;
+margin:40px 0 20px 0
+}
+
+.userInput_amount input{
+    width: 90%;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+
+.userInput_hr{
+    margin-top: 30px;
+    width: 100%;
+    
+}
+
+.userInput_service{
+    margin-top: 30px;
+    margin-bottom: -40px;
+}
+
+.userInput_service select{
+    margin: 0 10px 0 10px;
+    padding: 9px;
+    border-color: #06a6f0;
+    
+}
+
+.userInput_service input{
+    margin: 0 10px 0 10px;
+    padding: 5px;
+}
+
+.userInput_service button{
+     margin-left: 10px;
+     padding: 12px;
+     background-color: #1cadff;
+     color: white;
+     border: none;
+}
